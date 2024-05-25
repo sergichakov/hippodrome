@@ -1,5 +1,9 @@
 # Project exclude paths
 /out/
+/logs/
 .idea
 target
 *.iml
+Slf4jExample.java
+.git_kill_this.zip
+
